@@ -1,0 +1,6 @@
+{
+  "properties":{},
+  "routing_key":"bar",
+  "payload": "{ \"type\": \"raw\", \"value\": \"https://google.com\" }",
+  "payload_encoding":"string"
+}

@@ -1,0 +1,2 @@
+token: foo
+rabbitMqUrl: amqp://username:password@foo-bar.rmq.cloudamqp.com/vhost
