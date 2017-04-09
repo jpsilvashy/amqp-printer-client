@@ -2,11 +2,12 @@
   "name": "amqp-printer-client",
   "version": "0.0.1",
   "description": "Connects to AMQP, listens to queue, prints web pages when message recieved or raw text or base64 images",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "JP Silvashy",
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.5.1",
